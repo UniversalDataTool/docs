@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Universal Data Tool Docs](README.md)
+* [Installation](installation.md)
 
 ## Building and Labeling Datasets
 
@@ -23,9 +24,13 @@
 
 * [Getting Started with Python](usage-with-python-and-jupyter/getting-started-with-python.md)
 
-## Machine Learning Frameworks
+## Machine Learning
 
-* [Fast.ai](machine-learning-frameworks/fastai.md)
+* [Fast.ai](machine-learning/fastai.md)
+* [Tensorflow](machine-learning/tensorflow.md)
+* [Pytorch](machine-learning/pytorch.md)
+* [COCO Images](machine-learning/coco-images.md)
+* [brat](machine-learning/brat.md)
 
 ## Integrate with Any Web Page
 
