@@ -12,7 +12,8 @@
 * [Audio Transcription](building-and-labeling-datasets/audio-transcription.md)
 * [Speaker Identification](building-and-labeling-datasets/speaker-identification.md)
 * [Data Entry](building-and-labeling-datasets/data-entry.md)
-* [Untitled](building-and-labeling-datasets/untitled.md)
+* [Video Segmentation](building-and-labeling-datasets/untitled.md)
+* [Composite Interfaces](building-and-labeling-datasets/composite-interfaces.md)
 
 ## The Format .udt.json
 
