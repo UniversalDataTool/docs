@@ -2,7 +2,7 @@
 
 ## Mission
 
-The Universal Data Tool exists to empower anyone to build the next generation of powerful, useful and impactful Artificial Intelligence applications by providing tooling and standards for the creation, collaboration, labeling and formatting of datasets. 
+The Universal Data Tool exists to empower anyone, even those without a data science or engineering background, to build the next generation of powerful, useful and impactful Artificial Intelligence applications by providing tooling and standards for the creation, collaboration, labeling and formatting of datasets. **The Universal Data Tool is built to be easy-to-use, embed, programmatically interact with.**
 
 ## Editing these Docs
 
