@@ -1,0 +1,10 @@
+# What is the .udt.csv format?
+
+The UDT csv format is another representation of the .udt.json object that allows easier viewing and editing of data in spreadsheet software. It is capable of specifying all the same things as the UDT JSON format, but the UDT JSON format is the "canonical form" because the .udt.csv files are a very flexible format, and can be written in different but equivalent ways.
+
+{% hint style="info" %}
+[Check out this example .udt.csv file!](https://github.com/UniversalDataTool/udt-format/blob/master/SAMPLE.udt.csv)
+{% endhint %}
+
+UDT CSV files are generating by converting the JSON format into a CSV using [JSON as CSV \(JAC\)](https://github.com/UniversalDataTool/jac-format). They can be converted back to JSON using the [jac-format npm module](https://www.npmjs.com/package/jac-format) or [jac\_format pip module](https://pypi.org/project/jac-format/).
+

@@ -18,7 +18,10 @@
 
 ## The Format .udt.json
 
-* [What is the .udt.json format?](the-format-.udt.json/what-is-the-.udt.json-format.md)
+---
+
+* [What is the .udt.json format?](what-is-the-.udt.json-format.md)
+* [What is the .udt.csv format?](what-is-the-.udt.csv-format.md)
 
 ## Usage with Python & Jupyter
 
