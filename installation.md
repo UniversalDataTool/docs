@@ -2,7 +2,7 @@
 
 ## Usage on Web
 
-Becoming a super hero is a fairly straight forward process:
+Just go to [universaldatatool.com/app](https://universaldatatool.com/app)!
 
 ## Using on Desktop \(Windows, Mac, Linux\)
 
