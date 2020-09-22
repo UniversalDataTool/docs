@@ -2,7 +2,7 @@
 description: Quickly import *.udt.csv files into fast.ai for image classification.
 ---
 
-# Import Datasets for Fast.ai Image Classification
+# Fast.ai Image Classification
 
 ## Example Dataset
 
