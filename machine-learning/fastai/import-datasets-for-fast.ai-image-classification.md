@@ -8,7 +8,7 @@ description: Quickly import *.udt.csv files into fast.ai for image classificatio
 
 We're going to use [udt-dataset-cats-and-dogs](https://github.com/UniversalDataTool/udt-dataset-cats-and-dogs), a dataset of labeled images of cats and dogs created from [COCO](https://cocodataset.org/). For this guide you don't need to download it directly, because we'll load it in right from our notebook.
 
-![coco\_dogs\_and\_cats.udt.csv](../../.gitbook/assets/image.png)
+![coco\_dogs\_and\_cats.udt.csv](../../.gitbook/assets/image%20%2812%29.png)
 
 ## Import CSV Into Pandas Dataframe
 
@@ -44,7 +44,7 @@ dog_samples.to_csv("dog_urls.csv", columns=["imageUrl"], header=False, index=Fal
 cat_samples.to_csv("cat_urls.csv", columns=["imageUrl"], header=False, index=False)
 ```
 
-![dog\_urls.csv](../../.gitbook/assets/image%20%282%29.png)
+![dog\_urls.csv](../../.gitbook/assets/image%20%284%29.png)
 
 ```python
 # Now we can download the images!
@@ -78,5 +78,5 @@ learn = cnn_learner(data, models.resnet34, metrics=error_rate)
 learn.fit_one_cycle(4)
 ```
 
-![fit\_one\_cycle output](../../.gitbook/assets/image%20%283%29.png)
+![fit\_one\_cycle output](../../.gitbook/assets/image%20%2813%29.png)
 

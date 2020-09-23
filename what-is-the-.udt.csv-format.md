@@ -2,7 +2,7 @@
 
 The .udt.csv format is another representation of the .udt.json object that allows easier viewing and editing of data in spreadsheet software. 
 
-![A udt.csv file has easy to understand columns!](.gitbook/assets/image.png)
+![A udt.csv file has easy to understand columns!](.gitbook/assets/image%20%2812%29.png)
 
 {% hint style="info" %}
 [Check out this example .udt.csv file!](https://github.com/UniversalDataTool/udt-format/blob/master/SAMPLE.udt.csv)
