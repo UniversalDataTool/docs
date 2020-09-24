@@ -26,6 +26,7 @@
 ## Machine Learning
 
 * [Jupyter Notebook Integration](machine-learning/jupyter-notebooks.md)
+* [Import Datasets into Pandas](machine-learning/import-datasets-into-pandas.md)
 * [Fast.ai](machine-learning/fastai/README.md)
   * [Fast.ai Image Classification](machine-learning/fastai/import-datasets-for-fast.ai-image-classification.md)
   * [Fast.ai Image Segmentation](machine-learning/fastai/fast.ai-image-segmentation.md)
