@@ -1,25 +1,18 @@
+---
+description: Segment instances on image datasets using the Universal Data Tool
+---
+
 # Image Segmentation
 
-## Help us create this page on Github!
+## This page isn't ready!
 
-Becoming a super hero is a fairly straight forward process:
+We're still waiting on a contributor to write this page. If you'd like to help out, click the Edit on Github button above!
 
-```
-$ give me super-powers
-```
+## Setup the Dataset
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+## Import Data
 
-Once you're strong enough, save the world:
+## Label your Data \(with friends!\)
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+## Export and Use
 

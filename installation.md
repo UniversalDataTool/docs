@@ -14,7 +14,7 @@ Our Windows Desktop application needs contributors! If you run into any issues, 
 
 ## Using with Python or Jupyter Notebook
 
-If you use [Fast.ai](machine-learning/fastai/) or [Tensorflow](machine-learning/tensorflow.md), [Pytorch](machine-learning/pytorch.md), brat etc. look at the respective guides in the Machine Learning section of these docs. 
+If you use [Fast.ai](machine-learning/fastai/) or [Tensorflow](), [Pytorch](), brat etc. look at the respective guides in the Machine Learning section of these docs. 
 
 ```python
 import universaldatatool as udt

@@ -1,2 +1,18 @@
+---
+description: Classify or tag images using the Universal Data Tool
+---
+
 # Image Classification
+
+## This page isn't ready!
+
+We're still waiting on a contributor to write this page. If you'd like to help out, click the Edit on Github button above!
+
+## Setup the Dataset
+
+## Import Data
+
+## Label your Data \(with friends!\)
+
+## Export and Use
 

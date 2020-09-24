@@ -32,10 +32,7 @@
 * [Fast.ai](machine-learning/fastai/README.md)
   * [Fast.ai Image Classification](machine-learning/fastai/import-datasets-for-fast.ai-image-classification.md)
   * [Fast.ai Image Segmentation](machine-learning/fastai/fast.ai-image-segmentation.md)
-* [Tensorflow](machine-learning/tensorflow.md)
-* [Pytorch](machine-learning/pytorch.md)
 * [COCO Images](machine-learning/coco-images.md)
-* [brat](machine-learning/brat.md)
 
 ## Integrate with Any Web Page
 
