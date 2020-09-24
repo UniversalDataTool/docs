@@ -30,7 +30,7 @@ ds.to_json() # Outputs .udt.json
 udt.open() # Opens the Universal Data Tool in Jupyter Notebooks
 ```
 
-You can do much more! Check out the [Getting Started with Python](usage-with-python-and-jupyter/getting-started-with-python.md) for more details!
+You can do much more! Check out the [Getting Started with Python](machine-learning/jupyter-notebooks.md) for more details!
 
 ## Using with React or Embedded on Webpage
 

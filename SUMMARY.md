@@ -23,12 +23,9 @@
 * [What is the .udt.json format?](what-is-the-.udt.json-format.md)
 * [What is the .udt.csv format?](what-is-the-.udt.csv-format.md)
 
-## Usage with Python & Jupyter
-
-* [Getting Started with Python](usage-with-python-and-jupyter/getting-started-with-python.md)
-
 ## Machine Learning
 
+* [Jupyter Notebook Integration](machine-learning/jupyter-notebooks.md)
 * [Fast.ai](machine-learning/fastai/README.md)
   * [Fast.ai Image Classification](machine-learning/fastai/import-datasets-for-fast.ai-image-classification.md)
   * [Fast.ai Image Segmentation](machine-learning/fastai/fast.ai-image-segmentation.md)
