@@ -1,3 +1,7 @@
+---
+description: 'Learn install, use, and build datasets with the Universal Data Tool.'
+---
+
 # Universal Data Tool Docs
 
 ## Mission
