@@ -16,6 +16,14 @@
 * [Video Segmentation](building-and-labeling-datasets/untitled.md)
 * [Composite Interfaces](building-and-labeling-datasets/composite-interfaces.md)
 
+## Importing Data
+
+* [Import COCO Images](importing-data/coco-images.md)
+* [Import from Google Drive](importing-data/import-from-google-drive.md)
+* [Import from AWS S3 Bucket](importing-data/import-from-aws-s3-bucket.md)
+* [Import File URLs](importing-data/import-file-urls.md)
+* [Import from CSV or JSON](importing-data/import-from-csv-or-json.md)
+
 ## The Format .udt.json
 
 ---
@@ -30,7 +38,6 @@
 * [Fast.ai](machine-learning/fastai/README.md)
   * [Fast.ai Image Classification](machine-learning/fastai/import-datasets-for-fast.ai-image-classification.md)
   * [Fast.ai Image Segmentation](machine-learning/fastai/fast.ai-image-segmentation.md)
-* [COCO Images](machine-learning/coco-images.md)
 
 ## Integrate with Any Web Page
 

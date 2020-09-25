@@ -2,7 +2,7 @@
 description: Easily import the COCO dataset from within the UDT
 ---
 
-# COCO Images
+# Import COCO Images
 
 You can quickly import images and annotations from the [Common Objects in Context dataset](https://cocodataset.org) from within the Universal Data Tool.
 
