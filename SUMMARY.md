@@ -2,6 +2,7 @@
 
 * [Universal Data Tool Docs](README.md)
 * [Installation](installation.md)
+* [Collaborative Labeling](collaborative-labeling.md)
 
 ## Building and Labeling Datasets
 
@@ -18,10 +19,11 @@
 
 ## Importing Data
 
+* [Upload or Open Directories](importing-data/upload-or-open-directories.md)
+* [Import File URLs](importing-data/import-file-urls.md)
 * [Import COCO Images](importing-data/coco-images.md)
 * [Import from Google Drive](importing-data/import-from-google-drive.md)
 * [Import from AWS S3 Bucket](importing-data/import-from-aws-s3-bucket.md)
-* [Import File URLs](importing-data/import-file-urls.md)
 * [Import from CSV or JSON](importing-data/import-from-csv-or-json.md)
 * [Import using AWS Cognito](importing-data/import-using-aws-cognito.md)
 

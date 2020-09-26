@@ -4,10 +4,6 @@ description: Segment instances on image datasets using the Universal Data Tool
 
 # Image Segmentation
 
-## This page isn't ready!
-
-We're still waiting on a contributor to write this page. If you'd like to help out, click the Edit on Github button above!
-
 ## Setup the Dataset
 
 Navigate to [udt.dev](https://udt.dev) and click "New File"
@@ -43,8 +39,11 @@ You can use any of the following methods to import image data. If you're just ge
 * [Import from AWS S3 Bucket](../importing-data/import-from-aws-s3-bucket.md)
 * [Import from List of URLs](../importing-data/import-file-urls.md)
 * [Import from CSV or JSON](../importing-data/import-from-csv-or-json.md)
+* [Upload or Open Directory](../importing-data/upload-or-open-directories.md)
 
 ## Label your Data \(with friends!\)
+
+
 
 ## Export and Use
 
