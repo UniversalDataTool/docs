@@ -36,7 +36,13 @@ Each region can any number of labels, which can be configured under "Available L
 
 ## Import Data
 
-There are a lot of ways to import an Image Segmentation dataset, and more methods are being added all the time!
+You can use any of the following methods to import image data. If you're just getting started, you can quickly create a dataset using the COCO Images method!
+
+* [Import COCO Dialog](../importing-data/coco-images.md)
+* [Import from Google Drive](../importing-data/import-from-google-drive.md)
+* [Import from AWS S3 Bucket](../importing-data/import-from-aws-s3-bucket.md)
+* [Import from List of URLs](../importing-data/import-file-urls.md)
+* [Import from CSV or JSON](../importing-data/import-from-csv-or-json.md)
 
 ## Label your Data \(with friends!\)
 
