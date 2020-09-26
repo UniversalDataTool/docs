@@ -28,9 +28,5 @@ You can now go to "Samples &gt; Label" and view labels, edit labels or delete sa
 
 ![Example interface from the Cat and Dog dataset created above](../.gitbook/assets/image%20%2819%29.png)
 
-## 4. Export and Use
-
-See the tutorial 
-
 
 

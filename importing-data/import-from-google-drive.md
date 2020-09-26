@@ -16,3 +16,5 @@ Make sure that files have public share links, this will allow you or anyone you 
 
 ![Every file should have permissions set as viewable to anyone with link!](../.gitbook/assets/image%20%2828%29.png)
 
+After importing, your files will be converted to Samples. Check out the Samples or Labels page to view them!
+
