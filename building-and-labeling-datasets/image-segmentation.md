@@ -51,9 +51,9 @@ Use the `Label` tab to label your data.
 
 You can download your data using the download icon at the top.
 
-![Download your data in CSV or JSON format to use the annotations](../.gitbook/assets/image%20%2844%29.png)
+![Download your data in CSV or JSON format to use the annotations](../.gitbook/assets/image%20%2846%29.png)
 
 You can use the [Universal Data Tool Converter](https://universaldatatool.com/convert) to convert UDT files into PNG masks, or other formats that are helpful for machine learning datasets.
 
-![It&apos;s very common to convert into PNGs](../.gitbook/assets/image%20%2829%29.png)
+![It&apos;s very common to convert into PNGs](../.gitbook/assets/image%20%2830%29.png)
 

@@ -12,7 +12,7 @@ Navigate to [udt.dev](https://udt.dev) and click "New File"
 
 Then select the Image Segmentation button from the `Setup > Data Type` page.
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 ## Import Data
 

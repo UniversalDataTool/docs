@@ -35,11 +35,11 @@ You can paste these CORs permissions in to make files web-accessible.
 </CORSConfiguration>
 ```
 
-![Paste the CORs configuration in here](../.gitbook/assets/image%20%2837%29.png)
+![Paste the CORs configuration in here](../.gitbook/assets/image%20%2838%29.png)
 
 After you save that, you can pick the directories you'd like to be accessible by clicking on the directory, then clicking `Actions > Make Public` If your entire bucket is public, you can skip this step.
 
-![This will create URLs for each item in your S3 bucket.](../.gitbook/assets/image%20%2830%29.png)
+![This will create URLs for each item in your S3 bucket.](../.gitbook/assets/image%20%2831%29.png)
 
 ## 2. Add IAM Credentials
 
@@ -54,16 +54,16 @@ Navigate to the IAM service and select \(or create\) a user. The user must have 
 {% hint style="danger" %}
 One simple, but dangerous way to give the AWS permissions is to give the S3FullAccess permission, as show below. Fine-grained permissions are more secure!
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 {% endhint %}
 
-![Clicking Create Access Key will create the keys you need](../.gitbook/assets/image%20%2834%29.png)
+![Clicking Create Access Key will create the keys you need](../.gitbook/assets/image%20%2835%29.png)
 
 ## 3. Add Keys to the Universal Data Tool
 
 Navigate to [udt.dev](https://udt.dev) or open the UDT. Click "Add Authentication" and paste your keys. 
 
-![Add Authentication Dialog](../.gitbook/assets/image%20%2838%29.png)
+![Add Authentication Dialog](../.gitbook/assets/image%20%2839%29.png)
 
 
 
@@ -71,15 +71,15 @@ Navigate to [udt.dev](https://udt.dev) or open the UDT. Click "Add Authenticatio
 
 You can now create a new UDT Dataset and navigate to `Samples > Import from S3` \(which will be enabled\). You'll be able to select from all the buckets accessible to this user.
 
-![You can select any buckets accessible to that user.](../.gitbook/assets/image%20%2843%29.png)
+![You can select any buckets accessible to that user.](../.gitbook/assets/image%20%2844%29.png)
 
-![You can then import files from S3 directories.](../.gitbook/assets/image%20%2828%29.png)
+![You can then import files from S3 directories.](../.gitbook/assets/image%20%2829%29.png)
 
 ## Bonus: Import via Uploading to S3
 
 You can also upload to S3 directly from the UDT, after doing so, your files will automatically be added to your UDT dataset.
 
-![Use the Upload to S3 to directly add files to UDT!](../.gitbook/assets/image%20%2847%29.png)
+![Use the Upload to S3 to directly add files to UDT!](../.gitbook/assets/image%20%2849%29.png)
 
 
 
