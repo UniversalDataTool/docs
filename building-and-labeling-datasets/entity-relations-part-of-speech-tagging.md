@@ -18,7 +18,7 @@ Then select the Text Entity Relations button from the `Setup > Data Type` page.
 
 You can now configure the interface you'd like for you Text Entity Relations dataset by adding any labels you'd like to display per sample.
 
-![Text Entity Relation Configuration](../.gitbook/assets/image%20%2862%29.png)
+![Text Entity Relation Configuration](../.gitbook/assets/image%20%2865%29.png)
 
 ## Import Data
 
@@ -31,7 +31,7 @@ You can use any of the following methods to import text data.
 
 Go to the `Label` tab to begin labeling data. See the [Collaborative Labeling Guide](../collaborative-labeling.md) to label with friends or a team of your labelers.
 
-![Example of Text Entity Relations labeling](../.gitbook/assets/image%20%2855%29.png)
+![Example of Text Entity Relations labeling](../.gitbook/assets/image%20%2856%29.png)
 
 ## Export and Use
 

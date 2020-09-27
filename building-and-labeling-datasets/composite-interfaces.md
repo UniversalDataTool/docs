@@ -1,18 +1,44 @@
+---
+description: Use multiple UDT interfaces together with a Composite Interface.
+---
+
 # Composite Interfaces
-
-## This page isn't ready!
-
-We're still waiting on a contributor to write this page. If you'd like to help out, click the Edit on Github button above!
 
 ## What is a Composite Interface?
 
-A composite interface is an interface that contains other interfaces within in. It's very helpful if you're doing multiple operations on an image. For example, you might need to do some data entry on an image, such as doing Optical Character Recongnition
+A composite interface is an interface that contains other interfaces within in. It's very helpful if you're doing multiple operations on an image. For example, you might need to do some data entry on an image, such as doing Optical Character Recognition.
 
 ## Setup the Dataset
 
-## Import Data
+Select "Composite" from `Setup > Data Type`, then select Configure to create additional interfaces, and configure each one individually.
 
-## Label your Data \(with friends!\)
+![](../.gitbook/assets/image%20%2860%29.png)
 
-## Export and Use
+
+
+## Labeling Composite Interfaces
+
+When labeling a composite interface, you'll be prompted to select any of the sub-interfaces on each sample.
+
+![Select each sub-interface when labeling to add data for that sample](../.gitbook/assets/image%20%2862%29.png)
+
+## Exporting JSON
+
+When exporting a composite interface, it's best to use the JSON format. Check out the [Composite Interface JSON Format ](https://github.com/UniversalDataTool/udt-format/blob/master/interfaces/composite.md)Specification.
+
+The resultant JSON for each sample looks like this:
+
+```javascript
+{
+  /* ... same information as sample, e.g. imageUrl ... */
+
+  // Expected annotation
+  "annotation": {
+    // Each key is a fieldName, the annotation is the annotation from that interface
+    "some_field_name": {/*... whatever annotation goes with the interface defined for this field ...*/}
+  }
+}
+```
+
+
 

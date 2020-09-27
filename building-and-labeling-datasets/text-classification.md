@@ -16,7 +16,7 @@ Then select the Text Classification button from the `Setup > Data Type` page.
 
 You can now configure the interface you'd like for you Text Classification dataset by adding any classifications you'd like to display per sample, as well as configure if multiple classifications are allowed to be selected.
 
-![Text Classification Configuration](../.gitbook/assets/image%20%2860%29.png)
+![Text Classification Configuration](../.gitbook/assets/image%20%2863%29.png)
 
 
 
@@ -31,7 +31,7 @@ You can use any of the following methods to import text data. If you're just get
 
 Go to the `Label` tab to begin labeling data. See the [Collaborative Labeling Guide](../collaborative-labeling.md) to label with friends or a team of your labelers.
 
-![An example Text Classification interface](../.gitbook/assets/image%20%2854%29.png)
+![An example Text Classification interface](../.gitbook/assets/image%20%2855%29.png)
 
 
 

@@ -12,7 +12,6 @@
 * [Named Entity Recognition](building-and-labeling-datasets/named-entity-recognition.md)
 * [Entity Relations / Part of Speech Tagging](building-and-labeling-datasets/entity-relations-part-of-speech-tagging.md)
 * [Audio Transcription](building-and-labeling-datasets/audio-transcription.md)
-* [Speaker Identification](building-and-labeling-datasets/speaker-identification.md)
 * [Data Entry](building-and-labeling-datasets/data-entry.md)
 * [Video Segmentation](building-and-labeling-datasets/untitled.md)
 * [Composite Interfaces](building-and-labeling-datasets/composite-interfaces.md)
