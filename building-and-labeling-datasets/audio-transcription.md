@@ -16,7 +16,7 @@ Then select the Audio Transcription button from the `Setup > Data Type` page.
 
 You can now configure the interface you'd like for you Audio Transcription dataset.
 
-![Configuration for Audio Transcription](../.gitbook/assets/image%20%2863%29.png)
+![Configuration for Audio Transcription](../.gitbook/assets/image%20%2865%29.png)
 
 ## Import Data
 
@@ -27,7 +27,7 @@ You can use any of the following methods to import text data.
 
 ## Label your Data \(with friends!\)
 
-![Example Audio Transcription Sample](../.gitbook/assets/image%20%2867%29.png)
+![Example Audio Transcription Sample](../.gitbook/assets/image%20%2870%29.png)
 
 ## Export and Use
 

@@ -12,7 +12,7 @@ A composite interface is an interface that contains other interfaces within in. 
 
 Select "Composite" from `Setup > Data Type`, then select Configure to create additional interfaces, and configure each one individually.
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2864%29.png)
 
 
 
@@ -20,7 +20,7 @@ Select "Composite" from `Setup > Data Type`, then select Configure to create add
 
 When labeling a composite interface, you'll be prompted to select any of the sub-interfaces on each sample.
 
-![Select each sub-interface when labeling to add data for that sample](../.gitbook/assets/image%20%2864%29.png)
+![Select each sub-interface when labeling to add data for that sample](../.gitbook/assets/image%20%2866%29.png)
 
 ## Exporting JSON
 

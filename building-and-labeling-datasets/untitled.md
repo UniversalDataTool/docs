@@ -39,7 +39,7 @@ You can use any of the following methods to import video data.
 
 The easiest way to use a Video Segmentation dataset is using the JSON or CSV format. You can use the timeline at the top to go to different frames of the video. Regions will automatically interpolate between frames.
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 
 
