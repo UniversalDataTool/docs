@@ -29,7 +29,7 @@ You can use any of the following methods to import image data. If you're just ge
 
 Use the `Label` tab to label your data. Look at the [Collaborative Labeling Guide](../collaborative-labeling.md) to label with others.
 
-![An example Image Classification labeling task](../.gitbook/assets/image%20%2857%29.png)
+![An example Image Classification labeling task](../.gitbook/assets/image%20%2859%29.png)
 
 ## Export and Use
 
