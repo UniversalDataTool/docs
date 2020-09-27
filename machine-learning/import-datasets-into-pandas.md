@@ -8,9 +8,7 @@ description: 'Pandas gives you a nice way to view, filter and convert UDT datase
 
 You can export any UDT dataset into a CSV file using the download button at the top of the page.
 
-![](../.gitbook/assets/image%20%2817%29.png)
-
-## Importing udt.csv into Pandas
+![Download CSV from the Universal Data Tool](../.gitbook/assets/image%20%2817%29.png)
 
 ## Import CSV Into Pandas Dataframe
 

@@ -16,5 +16,7 @@ We're still waiting on a contributor to write this page. If you'd like to help o
 
 ## Label your Data \(with friends!\)
 
+Go to the `Label` tab to begin labeling data. See the [Collaborative Labeling Guide](../collaborative-labeling.md) to label with friends or a team of your labelers.
+
 ## Export and Use
 

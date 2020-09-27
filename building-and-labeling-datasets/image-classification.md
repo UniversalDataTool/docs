@@ -27,5 +27,13 @@ You can use any of the following methods to import image data. If you're just ge
 
 ## Label your Data \(with friends!\)
 
+Use the `Label` tab to label your data. Look at the [Collaborative Labeling Guide](../collaborative-labeling.md) to label with others.
+
+![An example Image Classification labeling task](../.gitbook/assets/image%20%2855%29.png)
+
 ## Export and Use
+
+The image classification format is easy to use. If you'd like the data in a tabular format, download as CSV and consider taking a look at the [Pandas Usage Guide](../machine-learning/import-datasets-into-pandas.md) \(which makes it easy to load into python\). You can also download the images into folders using the [Fast.ai Image Classification Guide](../machine-learning/fastai/import-datasets-for-fast.ai-image-classification.md).
+
+
 

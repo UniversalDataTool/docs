@@ -43,9 +43,7 @@ You can use any of the following methods to import image data. If you're just ge
 
 ## Label your Data!
 
-Use the `Label` tab to label your data.
-
-
+Use the `Label` tab to label your data. Look at the [Collaborative Labeling Guide](../collaborative-labeling.md) to label with others.
 
 ## Export and Use
 
