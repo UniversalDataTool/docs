@@ -16,7 +16,7 @@ Then select the Text Classification button from the `Setup > Data Type` page.
 
 You can now configure the interface you'd like for you Text Classification dataset by adding any classifications you'd like to display per sample, as well as configure if multiple classifications are allowed to be selected.
 
-![Text Classification Configuration](../.gitbook/assets/image%20%2858%29.png)
+![Text Classification Configuration](../.gitbook/assets/image%20%2859%29.png)
 
 
 

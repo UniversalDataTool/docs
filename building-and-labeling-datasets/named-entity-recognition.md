@@ -16,11 +16,11 @@ Then select the Named Entity Recognition button from the `Setup > Data Type` pag
 
 You can now configure the interface you'd like for you Named Entity Recognition dataset by adding any labels you'd like to display per sample.
 
-![Named Entity Recognition Configuration](../.gitbook/assets/image%20%2857%29.png)
+![Named Entity Recognition Configuration](../.gitbook/assets/image%20%2858%29.png)
 
 ## Import Data
 
-You can use any of the following methods to import text data. If you're just getting started, you can quickly create a dataset using the COCO Images method!
+You can use any of the following methods to import text data.
 
 * [Import Text Snippets](../importing-data/import-text-snippets.md)
 * [Import from CSV or JSON](../importing-data/import-from-csv-or-json.md)
@@ -29,7 +29,7 @@ You can use any of the following methods to import text data. If you're just get
 
 Go to the `Label` tab to begin labeling data. See the [Collaborative Labeling Guide](../collaborative-labeling.md) to label with friends or a team of your labelers.
 
-![Named Entity Recognition Example Interface](../.gitbook/assets/image%20%2856%29.png)
+![Named Entity Recognition Example Interface](../.gitbook/assets/image%20%2857%29.png)
 
 ## Export and Use
 
