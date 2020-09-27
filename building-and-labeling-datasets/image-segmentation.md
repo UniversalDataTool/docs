@@ -41,9 +41,19 @@ You can use any of the following methods to import image data. If you're just ge
 * [Import from CSV or JSON](../importing-data/import-from-csv-or-json.md)
 * [Upload or Open Directory](../importing-data/upload-or-open-directories.md)
 
-## Label your Data \(with friends!\)
+## Label your Data!
+
+Use the `Label` tab to label your data.
 
 
 
 ## Export and Use
+
+You can download your data using the download icon at the top.
+
+![Download your data in CSV or JSON format to use the annotations](../.gitbook/assets/image%20%2844%29.png)
+
+You can use the [Universal Data Tool Converter](https://universaldatatool.com/convert) to convert UDT files into PNG masks, or other formats that are helpful for machine learning datasets.
+
+![It&apos;s very common to convert into PNGs](../.gitbook/assets/image%20%2829%29.png)
 

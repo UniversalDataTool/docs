@@ -16,6 +16,7 @@
 * [Data Entry](building-and-labeling-datasets/data-entry.md)
 * [Video Segmentation](building-and-labeling-datasets/untitled.md)
 * [Composite Interfaces](building-and-labeling-datasets/composite-interfaces.md)
+* [Landmark / Pose Annotation](building-and-labeling-datasets/landmark-annotation.md)
 
 ## Importing Data
 
@@ -26,6 +27,7 @@
 * [Import from AWS S3 Bucket](importing-data/import-from-aws-s3-bucket.md)
 * [Import from CSV or JSON](importing-data/import-from-csv-or-json.md)
 * [Import using AWS Cognito](importing-data/import-using-aws-cognito.md)
+* [Import Text Snippets](importing-data/import-text-snippets.md)
 
 ## The Format .udt.json
 

@@ -8,7 +8,7 @@ description: Open directories or upload files to your Universal Data Tool datase
 
 The best way to upload files is via the "Upload to S3" dialog, which requires that you connect your S3 bucket to the Universal Data Tool. You can find details on how to do that in the [Import from S3 guide](import-from-aws-s3-bucket.md).
 
-![Import files Dialog](../.gitbook/assets/image%20%2840%29.png)
+![Import files Dialog](../.gitbook/assets/image%20%2846%29.png)
 
 ## Opening Files
 
