@@ -52,3 +52,7 @@
 
 * [Getting Started with UDT Courses](train-your-workforce/getting-started-with-udt-courses.md)
 
+---
+
+* [Frequently Asked Questions](frequently-asked-questions.md)
+
