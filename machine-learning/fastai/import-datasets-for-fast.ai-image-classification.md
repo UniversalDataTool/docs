@@ -8,6 +8,10 @@ description: Quickly import *.udt.csv files into fast.ai for image classificatio
 
 We're going to use [udt-dataset-cats-and-dogs](https://github.com/UniversalDataTool/udt-dataset-cats-and-dogs), a dataset of labeled images of cats and dogs created from [COCO](https://cocodataset.org/). For this guide you don't need to download it directly, because we'll load it in right from our notebook.
 
+{% hint style="info" %}
+Don't like cats and dogs? You can also use any classification from the [Common Objects in Context with the Import COCO button](../../importing-data/coco-images.md)! Maybe try to classify bears vs cats!
+{% endhint %}
+
 ![coco\_dogs\_and\_cats.udt.csv](../../.gitbook/assets/image%20%2812%29.png)
 
 ## Import CSV Into Pandas Dataframe
