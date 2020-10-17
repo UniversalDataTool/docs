@@ -2,6 +2,7 @@
 
 * [Universal Data Tool Docs](README.md)
 * [Installation](installation.md)
+* [Running On-Premise](running-on-premise.md)
 * [Collaborative Labeling](collaborative-labeling.md)
 
 ## Building and Labeling Datasets
