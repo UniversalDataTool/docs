@@ -20,18 +20,20 @@ The `<UniversalDataViewer />` component has every interface baked in. Just provi
 
 ```javascript
 import React from "react";
-import UniversalDataViewer from "universal-data-tool/components/UniversalDataViewer";
+import UniversalSampleEditor from "universal-data-tool";
 
 export default function App() {
   return (
     <div className="App">
-      <UniversalDataViewer
-        // oha is where you put your UDT formatted object
+      <UniversalSampleEditor
         // Read more about this format here:
         // https://github.com/UniversalDataTool/udt-format
-        dataset={{
-          interface: { type: "image_classification", labels: ["cat", "dog"] },
-          samples: [{ imageUrl: "https://placekitten.com/408/287" }]
+        interface={{
+          type: "image_classification",
+          labels: ["cat", "dog"]
+        }}
+        sample={{
+          imageUrl: "https://placekitten.com/408/287"
         }}
         onExit={(action: "go-to-prev" | "go-to-next" | undefined) => {
           // Called when user hits "Save", "Next", or "Prev"
