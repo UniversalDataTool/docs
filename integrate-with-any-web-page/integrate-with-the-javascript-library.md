@@ -51,8 +51,8 @@ Add a container element to your body. Then call `window.UniversalDataTool.open` 
       },
       
       // Called when sample is saved
-      onSaveTaskOutputItem: (index, output) => {
-        console.log(index, output);
+      onSaveSample: (index, sample) => {
+        console.log(index, sample);
       }
     });
   </script>
