@@ -39,10 +39,3 @@ Check out the guide for [Getting Started with React](integrate-with-any-web-page
 {% hint style="info" %}
 I recommend trying out the web tool before integrating. For many use cases, you can avoid the integration all together just by [using the online tool](https://universaldatatool.com/app)!
 {% endhint %}
-
-```
-$ give me super-powers
-```
-
-
-
